@@ -1,2 +1,2 @@
 # DACON_Contest
-Repository for Dacon contest codes
+- This is a repository for my Dacon contest codes.
